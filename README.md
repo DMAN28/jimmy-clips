@@ -18,7 +18,7 @@ This site was created for a client business. The cline thad more than one bookin
 
 This application is deployed at 
 
-  https://note-t8kr.herokuapp.com/
+  https://dman28.github.io/jimmy-clips/
 
 ## Table of contents
 
@@ -32,7 +32,7 @@ This application is deployed at
 ## Installation
 
 Simply open on a web browser and enjoy
-
+https://dman28.github.io/jimmy-clips/
 
 
 ## Usage
